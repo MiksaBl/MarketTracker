@@ -19,3 +19,13 @@ Market Tracker is a Python application that monitors vehicle marketplaces, detec
 - SQLite
 - Tkinter
 - Telegram Bot API
+
+## Installation
+
+```bash
+git clone https://github.com/yourusername/market-tracker.git
+cd market-tracker
+pip install -r requirements.txt
+playwright install chromium
+```
+playwright install chromium
